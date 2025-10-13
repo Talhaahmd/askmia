@@ -27,8 +27,8 @@
   --white-color: #fff;
   --heading-color: #0d0c17;
   --body-color: #6b6b6b;
-  --accent-color: #06b453;
-  --accent-color_2: #017534;
+  --accent-color: #8B5CF6;
+  --accent-color_2: #EC4899;
   --gray-color: #a3a2a3;
   --cyan-color: #e2f8f8;
   --light-blue-color: #8cacff;
@@ -1440,7 +1440,7 @@ textarea {
 }
 
 .cs_gradient_bg_2 {
-  background: linear-gradient(90deg, #f0fbf4 0.01%, rgba(240, 251, 244, 0) 99.99%);
+  background: linear-gradient(90deg, #faf5ff 0.01%, rgba(250, 245, 255, 0) 99.99%);
 }
 
 .cs_bg_filled {
@@ -3149,7 +3149,7 @@ textarea {
   width: 128px;
   height: 128px;
   border-radius: 100%;
-  background-color: #34ff7e;
+  background-color: #EC4899;
   filter: blur(90px) blur(90px) blur(90px);
   top: 0;
   left: 0;
@@ -3312,7 +3312,7 @@ textarea {
   height: 100%;
   min-height: 1000px;
   padding: 320px 0 80px;
-  background-color: #EAFFF1;
+  background-color: #FAF5FF;
   overflow: hidden;
 }
 @media (max-width: 1199px) {
